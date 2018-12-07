@@ -199,7 +199,7 @@ def main(names):
 
 
 if __name__=='__main__':
-    names=[] #需下载的tumblr用户名列表
+    names=['peach--live002-7','username2']
     main(names)
 
 
